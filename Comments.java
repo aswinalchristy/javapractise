@@ -7,6 +7,7 @@ class Comments{
         System.out.println("SVCT");
 
     }
+//medium
     void CommentMed(){
         /*assigning values */
         /*name*/ 
@@ -16,13 +17,14 @@ class Comments{
         /*school name */
         System.out.println("DVM");
     }
+//hard
     void CommentHard(){
-        int length=12;
-        int width=8;
-        int area=length*width;
-        int perimeter=(2*(length+width));
-        System.out.println("area = " +area);
-        System.out.println("perimeter = " +perimeter);
+        int length=12;//declare length
+        int width=8;//declare width
+        int area=length*width;//formula for calculating area of rectangle
+        int perimeter=(2*(length+width));//formula for calculating perimeter of the rectangle
+        System.out.println("area = " +area);//printing the caculated result
+        System.out.println("perimeter = " +perimeter);//printing the calculated result
 
     }
     
@@ -34,4 +36,3 @@ class Comments{
 
 }
 
-//medium
