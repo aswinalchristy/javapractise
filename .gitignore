@@ -3,3 +3,8 @@ out/
 .dist/
 .idea/
 *.iml
+
+*.class
+*.jar
+*.war
+out/
